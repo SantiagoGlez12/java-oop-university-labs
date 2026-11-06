@@ -13,6 +13,6 @@ This lab models circles, people, dates, and cars. Its source demonstrates getter
 
 ## Learning context
 
-This is a revised companion to [MPOOP5](https://github.com/SantiagoGlez12/MPOOP5), not an independent production application. It is included as a separate variant in this consolidated collection.
+This is a revised companion to [MPOOP5](../practice-05), not an independent production application. It is included as a separate variant in this consolidated collection.
 
 **Status:** Historical coursework · **Technology:** Java

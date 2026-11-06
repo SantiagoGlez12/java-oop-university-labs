@@ -6,20 +6,20 @@ A collection of my Java coursework from Electrical and Electronics Engineering a
 
 ## Explore the labs
 
-| Lab | Focus | Source |
+| Lab | Focus | Original repository |
 | --- | --- | --- |
-| [1](labs/practice-01) | Hello World | [MPOOP1](https://github.com/SantiagoGlez12/MPOOP1) |
-| [2](labs/practice-02) | Console input and control flow | [MPOOP2](https://github.com/SantiagoGlez12/MPOOP2) |
-| [3](labs/practice-03) | Collections and core APIs | [MPOOP3](https://github.com/SantiagoGlez12/MPOOP3) |
-| [4](labs/practice-04) | Classes and objects | [MPOOP4](https://github.com/SantiagoGlez12/MPOOP4) |
-| [5](labs/practice-05) | Encapsulation and composition | [MPOOP5](https://github.com/SantiagoGlez12/MPOOP5) |
-| [5.1](labs/practice-5.1) | Composition — extended version | [MPOOP5.1](https://github.com/SantiagoGlez12/MPOOP5.1) |
-| [6](labs/practice-06) | Methods and Javadoc | [MPOOP6](https://github.com/SantiagoGlez12/MPOOP6) |
-| [7](labs/practice-07) | Inheritance | [MPOOP7](https://github.com/SantiagoGlez12/MPOOP7) |
-| [8](labs/practice-08) | Abstraction and interfaces | [MPOOP8](https://github.com/SantiagoGlez12/MPOOP8) |
-| [9](labs/practice-09) | Exception handling | [MPOOP9](https://github.com/SantiagoGlez12/MPOOP9) |
-| [10](labs/practice-10) | File input and output | [MPOOP10](https://github.com/SantiagoGlez12/MPOOP10) |
-| [11](labs/practice-11) | Multithreading | [MPOOP11](https://github.com/SantiagoGlez12/MPOOP11) |
+| [1](labs/practice-01) | Hello World | `MPOOP1` |
+| [2](labs/practice-02) | Console input and control flow | `MPOOP2` |
+| [3](labs/practice-03) | Collections and core APIs | `MPOOP3` |
+| [4](labs/practice-04) | Classes and objects | `MPOOP4` |
+| [5](labs/practice-05) | Encapsulation and composition | `MPOOP5` |
+| [5.1](labs/practice-5.1) | Composition — extended version | `MPOOP5.1` |
+| [6](labs/practice-06) | Methods and Javadoc | `MPOOP6` |
+| [7](labs/practice-07) | Inheritance | `MPOOP7` |
+| [8](labs/practice-08) | Abstraction and interfaces | `MPOOP8` |
+| [9](labs/practice-09) | Exception handling | `MPOOP9` |
+| [10](labs/practice-10) | File input and output | `MPOOP10` |
+| [11](labs/practice-11) | Multithreading | `MPOOP11` |
 
 Each folder contains its own README and original source files. Lab 05.1 is retained as a distinct variant of lab 05.
 
@@ -52,7 +52,7 @@ Lab 10 reads and writes files relative to the working directory; run it from its
 
 The Java source and sample data were copied without changes. Presentation documentation was adapted to the new structure. Compiled classes, JARs, generated Javadoc, IDE metadata, and duplicate copies previously staged in MPOOP1 were excluded.
 
-This is a migration of the current source snapshots, not a merge of the original commit histories. The original repositories retain their histories and excluded artifacts. See the [migration record](docs/migration.md) and [file manifest](docs/migration-manifest.json) for provenance and source blob hashes.
+This is a migration of the current source snapshots, not a merge of the original commit histories. The original repositories are private, archived backups retaining their histories and excluded artifacts. Public visitors can access all migrated source files directly in this collection. See the [migration record](docs/migration.md) and [file manifest](docs/migration-manifest.json) for provenance and source blob hashes.
 
 **Validation:** source-file integrity is checked against Git blob hashes. Compilation and runtime behavior have not been verified in this environment, which has no JDK installed.
 
